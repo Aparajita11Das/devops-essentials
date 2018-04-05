@@ -8,7 +8,7 @@ Parameters:
   GitHubUser:
     Type: String
     Description: GitHub User
-    Default: "stelligent"
+    Default: "Aparajita11Das"
   GitHubRepo:
     Type: String
     Description: GitHub Repo to pull from. Only the Name. not the URL
